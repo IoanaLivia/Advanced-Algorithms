@@ -7,3 +7,5 @@
 [Assignment] (https://github.com/IoanaLivia/Genetic-Algorithms)
 
 ### Geometric algorithms
+
+[Assignments] 
