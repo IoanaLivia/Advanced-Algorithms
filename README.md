@@ -8,4 +8,4 @@
 
 ### Geometric algorithms
 
-[Assignments] 
+[Assignments] (https://github.com/IoanaLivia/Geometric-Algorithms)
