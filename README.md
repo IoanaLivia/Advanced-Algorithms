@@ -4,5 +4,6 @@
 ### Approximation algorithms
 
 ### Genetic algorithms
+[Assignment] (https://github.com/IoanaLivia/Genetic-Algorithms)
 
 ### Geometric algorithms
